@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>G:\opencv\build2310\install\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>G:\opencv\build2310\lib\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>ade.lib;opencv_aruco400d.lib;opencv_bgsegm400d.lib;opencv_bioinspired400d.lib;opencv_calib3d400d.lib;opencv_ccalib400d.lib;opencv_core400d.lib;opencv_datasets400d.lib;opencv_dnn400d.lib;opencv_dnn_objdetect400d.lib;opencv_dpm400d.lib;opencv_face400d.lib;opencv_features2d400d.lib;opencv_flann400d.lib;opencv_fuzzy400d.lib;opencv_gapi400d.lib;opencv_hfs400d.lib;opencv_highgui400d.lib;opencv_imgcodecs400d.lib;opencv_imgproc400d.lib;opencv_img_hash400d.lib;opencv_line_descriptor400d.lib;opencv_ml400d.lib;opencv_objdetect400d.lib;opencv_optflow400d.lib;opencv_phase_unwrapping400d.lib;opencv_photo400d.lib;opencv_plot400d.lib;opencv_reg400d.lib;opencv_rgbd400d.lib;opencv_saliency400d.lib;opencv_shape400d.lib;opencv_stereo400d.lib;opencv_stitching400d.lib;opencv_structured_light400d.lib;opencv_superres400d.lib;opencv_surface_matching400d.lib;opencv_text400d.lib;opencv_tracking400d.lib;opencv_ts400d.lib;opencv_video400d.lib;opencv_videoio400d.lib;opencv_videostab400d.lib;opencv_xfeatures2d400d.lib;opencv_ximgproc400d.lib;opencv_xobjdetect400d.lib;opencv_xphoto400d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
