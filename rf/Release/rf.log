@@ -1,0 +1,27 @@
+﻿  RF.cpp
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(270): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(272): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(348): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(315): warning C4101: 'fD': unreferenced local variable
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(411): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(378): warning C4101: 'fD': unreferenced local variable
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(489): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(499): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(606): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(646): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(747): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(748): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(1368): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(1369): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(1480): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\dropbox\new code\c\rf_c\rf\rf\rf.cpp(1481): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating code
+  4 of 325 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  rf.vcxproj -> E:\Dropbox\new code\C\RF_C\rf\Release\rf.exe
